@@ -1,26 +1,10 @@
-# user_prompt = "Enter a todo:"
-# todo1 = input(user_prompt)
-# todo2 = input(user_prompt)
-# todo3 = input(user_prompt)
-#
-# todos = [todo1, todo2, todo3]
-# print(todos)
-# print(type(user_prompt))
 
-
-
-# while True:
-#     todo = input(user_prompt)
-#     print(todo.capitalize())
-#     todos.append(todo)
-# while True:
-#     todo = input(user_prompt)
-#     print(todo.title())
-#     todos.append(todo)
 # from functions import get_todos, write_todos
 import functions
 import time
 
+now = time.strftime("%b %d, %Y %H:%M:%S")
+print("It is", now)
 text = """
 Principles of productivity:
 Managing your inflow.
