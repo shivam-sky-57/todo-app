@@ -2,6 +2,5 @@ add a new player
 Playing Cricket!!
 Make Burger.
 Make pizza.
-Cleaning Room
 Master Python
 Lastly
